@@ -112,6 +112,8 @@ A CLI number guessing game with persistent user tracking and leaderboard functio
 - Practiced **PostgreSQL DDL and DML** to manage game stats.  
 - Gained experience building a **full-stack CLI application** with persistent data.
 
+<img width="1280" height="800" alt="Capture d’écran 2025-12-18 à 18 30 56" src="https://github.com/user-attachments/assets/ed0b0be6-eb08-42d9-a284-1b10bc1d404b" />
+
 ---
 
 ### **General Skills Acquired**
