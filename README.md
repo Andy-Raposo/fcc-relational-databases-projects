@@ -1,6 +1,6 @@
 # Data & Bash Projects Portfolio
 
-This repository showcases a series of **Bash + PostgreSQL projects** I built to strengthen my programming, database, and scripting skills. Each project demonstrates real-world application of **data management, CLI tools, and database integration**.
+This repository showcases a series of **Bash + PostgreSQL projects** I built to strengthen my programming, database, and scripting skills. Each project demonstrates real-world application of **data management, CLI tools, and database integration**. Those projects are all part of my **freeCodeCamp** curriculum, which provided me of certifications to validate all the knowledge learnt here.
 
 ---
 
